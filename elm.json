@@ -1,9 +1,9 @@
 {
     "type": "package",
-    "name": "rtfeldman/elm-css",
-    "summary": "Typed CSS in Elm.",
+    "name": "pete-murphy/elm-css",
+    "summary": "Typed CSS in Elm (fork for supporting CSP)",
     "license": "BSD-3-Clause",
-    "version": "18.0.0",
+    "version": "1.0.0",
     "exposed-modules": {
         "Elements": [
             "Html.Styled",
